@@ -1,0 +1,19 @@
+body{
+    background-color: gainsboro;
+    display: inline;
+h1{
+    color:#1877F2;
+    display: inline;
+    margin-top: 300px;
+    margin-left: 500px;
+}
+div{
+    background-color: white;
+    border-color: white;
+    display:inline;
+    border-style: solid;
+    margin-top: 400px;
+    margin-left: 400px;
+    width: 500px;
+    height: 350px;
+}

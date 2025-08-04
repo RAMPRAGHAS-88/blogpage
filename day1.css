@@ -1,0 +1,40 @@
+body{
+    background-color:black;
+}
+h1{
+    color: aliceblue;
+    display:inline;
+}
+p{
+    color: aliceblue;
+    display:inline-block;
+    margin-top: 50px;
+}
+.box1{
+    display:inline;
+}
+div{
+    margin-top:50px;
+}
+.box3{
+    color:aliceblue;
+    display:block;
+    margin-top:40px;
+
+    
+}
+h2{
+    color:aliceblue;
+    display:block;
+
+}
+.box4{
+    margin-top: 30px;
+}
+.box5{
+    color:aliceblue;
+}
+h3{
+    color:darkgray;
+}
+
